@@ -1,20 +1,47 @@
+### Host files
+someonewhocares.org
+mvps.org
+winhelp2002.mvps.org
+adaway.org
+malwaredomainlist.com
+www.malwaredomainlist.com
+mirror1.malwaredomains.com
+malwaredomains.com
+raw.githubusercontent.com
+gist.githubusercontent.com
+githubusercontent.com
+pgl.yoyo.org
+yoyo.org
+adblock.mahakala.is
+mahakala.is
+hosts-file.net
+s3.amazonaws.com
+amazonaws.com
+malwaredomains.lehigh.edu
+lehigh.edu
+v.firebog.net
+firebog.net
+### Apple whites
+apple.com
+www.icloud.com
+appleid.apple.com
+www.apple.com
+icloud.com
+### other
 github.com
 images.performgroup.com
 gravatar.com
-apple.com
-#Facebook mobile Whitelisting
+### Facebook mobile Whitelisting
 m.facebook.com
-#Microsoft Whitelisting
+### Microsoft Whitelisting
 login.live.com
-#Kodi Whitelisting
+### Kodi Whitelisting
 msftncsi.com
-#Spotify Whitelisting
+### Spotify Whitelisting
 spclient.wg.spotify.com
-#Google Server Whitelisting
+### Google Server Whitelisting
 storage.googleapis.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
-appleid.apple.com
-www.apple.com
